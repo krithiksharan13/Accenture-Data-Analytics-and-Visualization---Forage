@@ -1,0 +1,113 @@
+Slide 1:
+Good day everyone, my name is [NAME], and today I am pleased to present the outcomes of the Data Analytics task we recently completed.
+
+Slide 2:
+Today's agenda includes:
+
+1. A brief recap of the overall project, providing a high-level understanding of the business challenge and our specific objectives.
+
+2. An in-depth discussion of the specific problem the Data Analytics team has addressed, along with context highlighting its significance.
+
+3. An introduction to the key members of our team who contributed to this task.
+
+4. An overview of the structured process we followed to complete the task, ensuring clarity on our methodology.
+
+5. A detailed presentation of the results, insights, and visualizations derived from our analysis.
+
+We will conclude with a summary and an opportunity for questions.
+
+Slide 3:
+To begin, let me provide a brief recap of this engagement.
+
+Accenture embarked on a three-month pilot partnership with Social Buzz, targeting three critical challenges faced by your organization. Social Buzz has achieved remarkable global scale, becoming a recognized unicorn company. Our goal is to support you in managing this growth strategically.
+
+The three main focus areas were:
+
+Conducting a comprehensive audit of your big data practices, sharing best practices and industry insights.
+
+Providing expert guidance on your upcoming IPO.
+
+Analyzing your data to uncover insights related to your top five most popular content categories.
+
+Slide 4:
+Focusing on the third objective, the Data Analytics team has concentrated on analyzing your content data.
+
+Given your platform's scale, the volume of data generated is substantial: over 100,000 posts daily, totaling approximately 36.5 million posts annually — predominantly unstructured data.
+
+In today's digital landscape, content reigns supreme. Platforms like YouTube, Facebook, and Netflix are prime examples. However, managing and capitalizing on vast quantities of content is a major challenge.
+
+The true opportunity lies in interpreting this data to gain deeper audience insights and deliver a personalized user experience. Our analytics expertise has enabled us to extract actionable insights that can drive scalable, production-level solutions.
+
+Slide 5:
+Regarding the team behind this initiative:
+
+Andrew Fleming, our Chief Technical Architect, provided critical technical leadership to ensure a high-quality analysis.
+
+Marcus Rompton, Senior Principal, brought extensive experience from working with the world's largest organizations, with a strong focus on data engineering.
+
+Finally, myself, [NAME], led the effort in deriving strategic insights from the raw datasets and translating them into meaningful business actions.
+
+Slide 6:
+Our approach consisted of five key steps:
+
+1. Data Understanding: Comprehensive familiarization with the data model and business domain.
+
+2. Data Cleaning: Refining the datasets and conceptualizing the optimal structure required for analysis.
+
+3, Data Modeling: Structuring the data to effectively address the key business questions.
+
+4. Data Analysis: Applying analytical techniques to extract insights and visualizations.
+
+5. Business Decision Enablement: Translating insights into actionable recommendations.
+
+Slide 7:
+From your data, we identified 16 distinct content categories, including areas such as Food, Science, and Animals.
+
+Notably:
+
+The "Animals" category alone received 1,897 user reactions.
+
+January emerged as the most active posting month, aligning with seasonal social media trends following major calendar events such as Christmas.
+
+Moving forward, the key focus was to identify the top five most popular categories.
+
+Slide 8:
+Our findings revealed that the top five categories, in descending order, are:
+
+1. Animals
+
+2. Science
+
+3. Healthy Eating
+
+4. Technology
+
+5. Food
+
+"Animals" topped the list with an aggregate popularity score of approximately 74,965.
+
+The presence of both "Healthy Eating" and "Food" among the top five indicates a strong audience interest in food-related content, particularly health-conscious themes. Meanwhile, the prominence of "Science" and "Technology" suggests a user preference for factual and educational content.
+
+Slide 9:
+Analyzing the percentage distribution among the top five categories:
+
+While the popularity shares are closely distributed, the gap between "Animals" and "Science" is notable at 1.1%.
+
+From a business perspective, this trend suggests that the "Animals" category could continue to dominate if left unchecked. It is critical to ensure that your content algorithms maintain a balanced representation across categories to avoid over-saturation.
+
+Slide 10:
+In summary:
+
+We successfully identified the top five content categories.
+
+"Animals" and "Science" lead the popularity rankings, highlighting an affinity for real-world and factual content.
+
+"Healthy Eating" emerged as a strong theme, providing an opportunity for targeted campaigns or partnerships with health-conscious brands.
+
+Beyond this analysis, we are fully equipped and enthusiastic to assist Social Buzz in scaling these insights into real-time, production-ready analytics solutions across your organization.
+
+Slide 11:
+Thank you for your attention.
+
+I now welcome any questions you may have.
+
