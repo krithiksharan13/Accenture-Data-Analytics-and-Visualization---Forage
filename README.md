@@ -97,6 +97,3 @@ While the recording functionality in this task won't allow you to share your sli
 Great work on your presentation. 
 
 ## CHECK OUT THE SIMULATION HERE : [Job Simulation Link](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
-
-## CERTIFICATE OF COMPLETION : 
-![Accenture North America_Lyj3HtEmzaQJwsQM6_1711009434422_completion_certificate_page-0001](https://github.com/prajwalchapke055/Accenture-Data-Analytics-and-Visualization-Forage/assets/122814333/ba1b941a-ec4f-4ac9-b767-11f010a33fad)
